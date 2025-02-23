@@ -65,7 +65,7 @@ supportanyware.adobe.io
 ## Adobe Genuine Integrity Service:
 genuine.adobe.com
 prod.adobegenuine.com
-gocart-web-prod-*.elb.amazonaws.com
+gocart-web-prod-.\.elb\.amazonaws\.com
 
 ## Updater:
 armmf.adobe.com
