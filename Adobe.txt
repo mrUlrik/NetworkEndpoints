@@ -1,0 +1,73 @@
+# Identity & Sign-in services
+
+## Licensing-activation services:
+lm.licenses.adobe.com
+resources.licenses.adobe.com
+cs.licenses.adobe.com
+exception.licenses.adobe.com
+pubcerts.licenses.adobe.com
+workflow.licenses.adobe.com
+auth.services.adobe.com
+
+## Deployment and fulfillment services:
+adminconsole.adobe.com
+cc-ext-prod-pkgs.s3.amazonaws.com
+ccmdls.adobe.com
+ccmdl.adobe.com
+ans.oobesaas.adobe.com
+ars.oobesaas.adobe.com
+cdn-ffc.oobesaas.adobe.com
+ffc-icons.oobesaas.adobe.com
+ffc-static-cdn.oobesaas.adobe.com
+prod-rel-ffc-ccm.oobesaas.adobe.com
+acc.adobeoobe.com
+prod.acp.adobeoobe.com
+mir-s3-cdn-cf.behance.net
+swupmf.adobe.com
+swupdl.adobe.com
+oobe.adobe.com
+productrouter.adobe.com
+tron-prod-customized-user-packages.s3.amazonaws.com
+armmf.adobe.com
+ardownload.adobe.com
+ardownload2.adobe.com
+agsupdate.adobe.com
+
+## Adobe-hosted authentication services:
+ims-na1.adobelogin.com
+ims-prod06.adobelogin.com
+ims-prod07.adobelogin.com
+static.adobelogin.com
+delegated.adobelogin.com
+adobeid.services.adobe.com
+adobeid-na1.services.adobe.com
+auth.services.adobe.com
+federatedid-na1.services.adobe.com
+na1e-acc.services.adobe.com
+na1e.services.adobe.com
+na1r.services.adobe.com
+ad.adobe-identity.com
+ids-proxy.account.adobe.com
+lcs-cops.adobe.io
+lcs-robs.adobe.io
+lcs-entitlement.adobe.io
+lcs-ulecs.adobe.io
+ams.adobe.com
+oobe.adobe.com
+adobelogin.prod.ims.adobejanus.com
+services.prod.ims.adobejanus.com
+www-prod.adobesunbreak.com
+
+## Additional Services used for Adobe IDs:
+api-cna01.adobe-services.com
+supportanyware.adobe.io
+
+## Adobe Genuine Integrity Service:
+genuine.adobe.com
+prod.adobegenuine.com
+gocart-web-prod-*.elb.amazonaws.com
+
+## Updater:
+armmf.adobe.com
+ardownload.adobe.com
+armdl.adobe.com
