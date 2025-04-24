@@ -1,14 +1,31 @@
-# Major Data Centers
-AS16509 # Amazon.com, Inc.
-AS200019 # ALEXHOST SRL
-AS210558 # 1337 Services GmbH
-AS31898 # Oracle Corporation
-AS396982 # Google LLC
-AS398324 # Censys, Inc.
-AS398705 # Censys, Inc.
+## Major Data Centers
 
-# Blocklisted
-AS9009 # M247, RO
+# Amazon.com, Inc.
+AS16509
 
-# Unknown
-AS50219 # Valence Technology Co.
+# ALEXHOST SRL
+AS200019
+
+# 1337 Services GmbH
+AS210558
+
+# Oracle Corporation
+AS31898
+
+# Google LLC
+AS396982
+
+# Censys, Inc.
+AS398324
+AS398705
+AS398722
+
+## Blocklisted
+
+# M247, RO
+AS9009
+
+## Unknown
+
+# Valence Technology Co.
+AS50219
