@@ -6,7 +6,9 @@ AS31898 # Oracle Corporatoin
 AS396982 # Google LLC
 AS398324 # Censys, Inc.
 AS398705 # Censys, Inc.
-AS50219 # Unknown
 
 # Blocklisted
 AS9009 # M247, RO
+
+# Unknown
+AS50219 # Valence Technology Co.
