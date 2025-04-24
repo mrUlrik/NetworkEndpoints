@@ -2,7 +2,7 @@
 AS16509 # Amazon.com, Inc.
 AS200019 # ALEXHOST SRL
 AS210558 # 1337 Services GmbH
-AS31898 # Oracle Corporatoin
+AS31898 # Oracle Corporation
 AS396982 # Google LLC
 AS398324 # Censys, Inc.
 AS398705 # Censys, Inc.
