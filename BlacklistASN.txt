@@ -1,3 +1,9 @@
+# Oracle Cloud Services
+AS31898
+
+# Amazon Web Services
+AS16509
+
 # Censys scans
 AS398722
 AS398705
@@ -5,7 +11,6 @@ AS398324
 
 # Google Cloud Platform
 AS396982
-
 
 # 1337 Services GmbH
 AS210558
