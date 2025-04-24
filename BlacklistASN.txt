@@ -2,3 +2,16 @@
 AS398722
 AS398705
 AS398324
+
+# Google Cloud Platform
+AS396982
+
+
+# 1337 Services GmbH
+AS210558
+
+# AlexHost SRL
+AS200019
+
+# M247 Ltd
+AS9009
