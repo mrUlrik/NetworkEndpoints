@@ -32,6 +32,9 @@
 # TECHOFF SRV LIMITED
 48090
 
+# Nodestop LLC
+400536
+
 ## Unknown
 
 # Valence Technology Co.
