@@ -1,31 +1,38 @@
 ## Major Data Centers
 
 # Amazon.com, Inc.
-AS16509
+16509
+14618
 
 # ALEXHOST SRL
-AS200019
+200019
 
 # 1337 Services GmbH
-AS210558
+210558
 
 # Oracle Corporation
-AS31898
+31898
 
 # Google LLC
-AS396982
+396982
 
 # Censys, Inc.
-AS398324
-AS398705
-AS398722
+398324
+398705
+398722
 
 ## Blocklisted
 
 # M247, RO
-AS9009
+9009
+
+# Private Layer INC
+51852
+
+# TECHOFF SRV LIMITED
+48090
 
 ## Unknown
 
 # Valence Technology Co.
-AS50219
+50219
