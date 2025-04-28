@@ -16,12 +16,12 @@
 # Google LLC
 396982
 
+## Blocklisted
+
 # Censys, Inc.
 398324
 398705
 398722
-
-## Blocklisted
 
 # M247, RO
 9009
@@ -36,6 +36,13 @@
 400536
 
 ## Unknown
+
+# CariNet, Inc.
+10439
+
+# OVH SAS
+10439
+
 
 # Valence Technology Co.
 50219
