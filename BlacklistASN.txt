@@ -35,7 +35,7 @@
 # Nodestop LLC
 400536
 
-## Unknown
+## Scanning Detected
 
 # CariNet, Inc.
 10439
@@ -43,6 +43,11 @@
 # OVH SAS
 10439
 
+# China Telecom (Group)
+4812
+
+# HostPapa
+36352
 
 # Valence Technology Co.
 50219
