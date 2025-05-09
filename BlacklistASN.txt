@@ -16,6 +16,9 @@
 # Google LLC
 396982
 
+# Microsoft
+8075
+
 ## Blocklisted
 
 # Censys, Inc.
@@ -51,3 +54,9 @@
 
 # Valence Technology Co.
 50219
+
+# UAB Cherry Servers
+204770
+
+# Railnet LLC
+214943
