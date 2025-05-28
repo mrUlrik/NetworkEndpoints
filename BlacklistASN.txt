@@ -1,120 +1,57 @@
 # Threats
-## ALEXHOST SRL
-200019          # 5/28/2025 9:03:41 AM
+## Africa on Cloud
+328608          # 5/28/2025 7:04:18 PM
 
-## Amazon Inc
-14618           # 5/28/2025 9:03:42 AM
-16509           # 5/28/2025 9:03:43 AM
+## Akamai Technologies Inc
+63949           # 5/28/2025 7:04:18 PM
 
-## BGP Consultancy PTE Ltd
-64050           # 5/28/2025 9:03:45 AM
-
-## Carinet Inc
-10439           # 5/28/2025 9:03:42 AM
+## Alsycon B.V
+49870           # 5/28/2025 7:04:18 PM
 
 ## Censys Inc
-398324          # 5/28/2025 9:03:42 AM
-398705          # 5/28/2025 9:03:42 AM
-398722          # 5/28/2025 9:03:42 AM
+398705          # 5/28/2025 7:04:18 PM
 
 ## Centurylink Communications LLC
-209             # 5/28/2025 9:03:43 AM
+209             # 5/28/2025 7:04:19 PM
 
 ## Contabo GMBH
-51167           # 5/28/2025 9:03:45 AM
+51167           # 5/28/2025 7:04:18 PM
 
-## Dataforest GMBH
-58212           # 5/28/2025 9:03:42 AM
+## F3 Netze E.V
+205100          # 5/28/2025 7:04:18 PM
 
-## Digitalocean LLC
-14061           # 5/28/2025 9:03:44 AM
+## Interserver Inc
+19318           # 5/28/2025 7:04:18 PM
 
-## FBW Networks SAS
-34534           # 5/28/2025 9:03:45 AM
-
-## Google LLC
-396982          # 5/28/2025 9:03:41 AM
-
-## Hivelocity Inc
-29802           # 5/28/2025 9:03:42 AM
-
-## HostPapa
-36352           # 5/28/2025 9:03:43 AM
-
-## IWAY Ag
-8758            # 5/28/2025 9:03:45 AM
-
-## IWEB Technologies Inc
-32613           # 5/28/2025 9:03:44 AM
-
-## M247 Europe SRL
-9009            # 5/28/2025 9:03:42 AM
-
-## Oracle Corporation
-31898           # 5/28/2025 9:03:41 AM
+## Netiface Limited
+60223           # 5/28/2025 7:07:00 PM
 
 ## OVH SAS
-16276           # 5/28/2025 9:03:42 AM
+16276           # 5/28/2025 7:04:18 PM
 
-## Pptechnology Limited
-48090           # 5/28/2025 9:03:42 AM
+## Ripe NCC ASN Block
+49581           # 5/28/2025 7:04:18 PM
+202306          # 5/28/2025 7:04:18 PM
 
-## Private Layer Inc
-51852           # 5/28/2025 9:03:42 AM
-
-## Quadranet Enterprises LLC
-8100            # 5/28/2025 9:03:43 AM
-
-## Sarnica Net Ltd
-48584           # 5/28/2025 9:03:42 AM
+## SK Broadband Co Ltd
+9318            # 5/28/2025 7:04:18 PM
 
 ## Tefincom S.A
-136787          # 5/28/2025 9:03:44 AM
-
-## Valence Technology Co.
-50219           # 5/28/2025 9:03:42 AM
-
-## Vidolu Group PTY Ltd Web4africa
-327813          # 5/28/2025 9:03:45 AM
+136787          # 5/28/2025 7:04:18 PM
 
 # Others
-## 1337 Services GMBH
-210558          # 5/28/2025 9:03:41 AM
+## Art Telecom Ltd
+196936          # 5/28/2025 7:04:18 PM
 
-## Amazon Inc
-14618           # 5/28/2025 9:03:43 AM
-16509           # 5/28/2025 9:03:41 AM
-
-## Apnic ASN Block
-136557          # 5/28/2025 9:03:42 AM
-
-## Centurylink Communications LLC
-209             # 5/28/2025 9:03:45 AM
-
-## Digitalocean LLC
-14061           # 5/28/2025 9:03:45 AM
-
-## Frontier Communications of America Inc
-5650            # 5/28/2025 9:03:45 AM
-
-## Google LLC
-396982          # 5/28/2025 9:03:41 AM
-
-## Green Floid LLC
-204957          # 5/28/2025 9:03:44 AM
-
-## M247 Europe SRL
-9009            # 5/28/2025 9:03:45 AM
-
-## Microsoft Corporation
-8075            # 5/28/2025 9:03:43 AM
+## HostPapa
+36352           # 5/28/2025 7:06:00 PM
 
 ## NTT Communications Corporation
-4713            # 5/28/2025 9:03:45 AM
+4713            # 5/28/2025 7:04:18 PM
 
-## Shanghai Telecom Company
-4812            # 5/28/2025 9:03:43 AM
+## Peg Tech Inc
+398478          # 5/28/2025 7:04:18 PM
 
-## UAB Nacionalinis Telekomunikaciju Tinklas
-33922           # 5/28/2025 9:03:43 AM
+## Tefincom S.A
+136787          # 5/28/2025 7:04:18 PM
 
