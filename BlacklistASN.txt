@@ -1,62 +1,120 @@
-## Major Data Centers
+# Threats
+## ALEXHOST SRL
+200019          # 5/28/2025 9:03:41 AM
 
-# Amazon.com, Inc.
-16509
-14618
+## Amazon Inc
+14618           # 5/28/2025 9:03:42 AM
+16509           # 5/28/2025 9:03:43 AM
 
-# ALEXHOST SRL
-200019
+## BGP Consultancy PTE Ltd
+64050           # 5/28/2025 9:03:45 AM
 
-# 1337 Services GmbH
-210558
+## Carinet Inc
+10439           # 5/28/2025 9:03:42 AM
 
-# Oracle Corporation
-31898
+## Censys Inc
+398324          # 5/28/2025 9:03:42 AM
+398705          # 5/28/2025 9:03:42 AM
+398722          # 5/28/2025 9:03:42 AM
 
-# Google LLC
-396982
+## Centurylink Communications LLC
+209             # 5/28/2025 9:03:43 AM
 
-# Microsoft
-8075
+## Contabo GMBH
+51167           # 5/28/2025 9:03:45 AM
 
-## Blocklisted
+## Dataforest GMBH
+58212           # 5/28/2025 9:03:42 AM
 
-# Censys, Inc.
-398324
-398705
-398722
+## Digitalocean LLC
+14061           # 5/28/2025 9:03:44 AM
 
-# M247, RO
-9009
+## FBW Networks SAS
+34534           # 5/28/2025 9:03:45 AM
 
-# Private Layer INC
-51852
+## Google LLC
+396982          # 5/28/2025 9:03:41 AM
 
-# TECHOFF SRV LIMITED
-48090
+## Hivelocity Inc
+29802           # 5/28/2025 9:03:42 AM
 
-# Nodestop LLC
-400536
+## HostPapa
+36352           # 5/28/2025 9:03:43 AM
 
-## Scanning Detected
+## IWAY Ag
+8758            # 5/28/2025 9:03:45 AM
 
-# CariNet, Inc.
-10439
+## IWEB Technologies Inc
+32613           # 5/28/2025 9:03:44 AM
 
-# OVH SAS
-10439
+## M247 Europe SRL
+9009            # 5/28/2025 9:03:42 AM
 
-# China Telecom (Group)
-4812
+## Oracle Corporation
+31898           # 5/28/2025 9:03:41 AM
 
-# HostPapa
-36352
+## OVH SAS
+16276           # 5/28/2025 9:03:42 AM
 
-# Valence Technology Co.
-50219
+## Pptechnology Limited
+48090           # 5/28/2025 9:03:42 AM
 
-# UAB Cherry Servers
-204770
+## Private Layer Inc
+51852           # 5/28/2025 9:03:42 AM
 
-# Railnet LLC
-214943
+## Quadranet Enterprises LLC
+8100            # 5/28/2025 9:03:43 AM
+
+## Sarnica Net Ltd
+48584           # 5/28/2025 9:03:42 AM
+
+## Tefincom S.A
+136787          # 5/28/2025 9:03:44 AM
+
+## Valence Technology Co.
+50219           # 5/28/2025 9:03:42 AM
+
+## Vidolu Group PTY Ltd Web4africa
+327813          # 5/28/2025 9:03:45 AM
+
+# Others
+## 1337 Services GMBH
+210558          # 5/28/2025 9:03:41 AM
+
+## Amazon Inc
+16509           # 5/28/2025 9:03:41 AM
+14618           # 5/28/2025 9:03:43 AM
+
+## Apnic ASN Block
+136557          # 5/28/2025 9:03:42 AM
+
+## Centurylink Communications LLC
+209             # 5/28/2025 9:03:45 AM
+
+## Digitalocean LLC
+14061           # 5/28/2025 9:03:45 AM
+
+## Frontier Communications of America Inc
+5650            # 5/28/2025 9:03:45 AM
+
+## Google LLC
+396982          # 5/28/2025 9:03:41 AM
+
+## Green Floid LLC
+204957          # 5/28/2025 9:03:44 AM
+
+## M247 Europe SRL
+9009            # 5/28/2025 9:03:45 AM
+
+## Microsoft Corporation
+8075            # 5/28/2025 9:03:43 AM
+
+## NTT Communications Corporation
+4713            # 5/28/2025 9:03:45 AM
+
+## Shanghai Telecom Company
+4812            # 5/28/2025 9:03:43 AM
+
+## UAB Nacionalinis Telekomunikaciju Tinklas
+33922           # 5/28/2025 9:03:43 AM
+
