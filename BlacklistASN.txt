@@ -20,6 +20,9 @@
 ## F3 Netze E.V
 205100          # 5/28/2025 7:04:18 PM
 
+## GCI Network Solutions Limited
+8851            # 6/9/2025 11:08:14 AM
+
 ## Interserver Inc
 19318           # 5/28/2025 7:04:18 PM
 
@@ -32,6 +35,7 @@
 ## Ripe NCC ASN Block
 49581           # 5/28/2025 7:04:18 PM
 202306          # 5/28/2025 7:04:18 PM
+207083          # 6/9/2025 11:08:14 AM
 
 ## SK Broadband Co Ltd
 9318            # 5/28/2025 7:04:18 PM
@@ -43,15 +47,36 @@
 ## Art Telecom Ltd
 196936          # 5/28/2025 7:04:18 PM
 
+## Contabo GMBH
+51167           # 6/9/2025 11:08:14 AM
+
+## Digitalocean LLC
+14061           # 6/9/2025 11:08:14 AM
+
+## Google LLC
+396982          # 6/9/2025 11:08:14 AM
+
 ## HostPapa
 36352           # 5/28/2025 7:06:00 PM
+
+## Microsoft Corporation
+8075            # 6/9/2025 11:08:14 AM
 
 ## NTT Communications Corporation
 4713            # 5/28/2025 7:04:18 PM
 
+## OVH SAS
+16276           # 6/9/2025 11:08:14 AM
+
 ## Peg Tech Inc
 398478          # 5/28/2025 7:04:18 PM
 
+## Ripe NCC ASN Block
+21499           # 6/9/2025 11:08:15 AM
+
 ## Tefincom S.A
 136787          # 5/28/2025 7:04:18 PM
+
+## Windstream Communications LLC
+7029            # 6/9/2025 11:08:15 AM
 
