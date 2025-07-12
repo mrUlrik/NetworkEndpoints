@@ -5,17 +5,34 @@
 ## Akamai Technologies Inc
 63949           # 5/28/2025 7:04:18 PM
 
+## Alibaba US Technology Co
+45102           # 7/12/2025 12:11:00 AM
+
 ## Alsycon B.V
 49870           # 5/28/2025 7:04:18 PM
 
+## Carinet Inc
+10439           # 7/12/2025 12:02:34 AM
+
 ## Censys Inc
+398324          # 7/12/2025 12:02:32 AM
 398705          # 5/28/2025 7:04:18 PM
+398722          # 7/12/2025 12:02:32 AM
 
 ## Centurylink Communications LLC
 209             # 5/28/2025 7:04:19 PM
 
+## Cogent Communications
+174             # 7/12/2025 12:02:31 AM
+
 ## Contabo GMBH
 51167           # 5/28/2025 7:04:18 PM
+
+## Daniel Wojda Trading as Netservice
+203272          # 7/12/2025 12:02:32 AM
+
+## Dataforest GMBH
+58212           # 7/12/2025 12:02:32 AM
 
 ## F3 Netze E.V
 205100          # 5/28/2025 7:04:18 PM
@@ -23,8 +40,20 @@
 ## GCI Network Solutions Limited
 8851            # 6/9/2025 11:08:14 AM
 
+## Google LLC
+396982          # 7/12/2025 12:02:31 AM
+
+## Hurricane Electric LLC
+6939            # 7/12/2025 12:02:32 AM
+
 ## Interserver Inc
 19318           # 5/28/2025 7:04:18 PM
+
+## Ip Volume Inc
+202425          # 7/12/2025 12:02:34 AM
+
+## Microsoft Corporation
+8075            # 7/12/2025 12:02:32 AM
 
 ## Netiface Limited
 60223           # 5/28/2025 7:07:00 PM
@@ -32,10 +61,16 @@
 ## OVH SAS
 16276           # 5/28/2025 7:04:18 PM
 
+## Pfcloud UG
+51396           # 7/12/2025 12:07:00 AM
+
 ## Ripe NCC ASN Block
 49581           # 5/28/2025 7:04:18 PM
 202306          # 5/28/2025 7:04:18 PM
 207083          # 6/9/2025 11:08:14 AM
+
+## Shenzhen Tencent Computer Systems Company Limited
+132203          # 7/12/2025 12:02:33 AM
 
 ## SK Broadband Co Ltd
 9318            # 5/28/2025 7:04:18 PM
@@ -43,7 +78,29 @@
 ## Tefincom S.A
 136787          # 5/28/2025 7:04:18 PM
 
+## Ucloud Information Technology Limited
+135377          # 7/12/2025 12:02:31 AM
+
+## Unmanaged Ltd
+47890           # 7/12/2025 12:02:34 AM
+
+## Vidolu Group PTY Ltd Web4africa
+327813          # 7/12/2025 12:02:32 AM
+
+## Xneelo Ltd
+37153           # 7/12/2025 12:02:32 AM
+
+# Proxies
+## Digitalocean LLC
+14061           # 7/12/2025 12:02:31 AM
+
 # Others
+## Amarutu Technology Ltd
+206264          # 7/12/2025 12:02:34 AM
+
+## Amazon Inc
+16509           # 7/12/2025 12:02:32 AM
+
 ## Art Telecom Ltd
 196936          # 5/28/2025 7:04:18 PM
 
@@ -53,14 +110,32 @@
 ## Digitalocean LLC
 14061           # 6/9/2025 11:08:14 AM
 
+## Epikwire Broadband Limited
+216156          # 7/12/2025 12:02:34 AM
+
 ## Google LLC
 396982          # 6/9/2025 11:08:14 AM
 
 ## HostPapa
 36352           # 5/28/2025 7:06:00 PM
 
+## Jenny Internet Ltd
+327750          # 7/12/2025 12:02:31 AM
+
+## M247 Europe SRL
+9009            # 7/12/2025 12:02:31 AM
+
+## Mevspace SP Z O.O
+201814          # 7/12/2025 12:02:34 AM
+
 ## Microsoft Corporation
 8075            # 6/9/2025 11:08:14 AM
+
+## Netiface Limited
+60223           # 7/12/2025 12:05:00 AM
+
+## NLS Kazakhstan LLC
+200590          # 7/12/2025 12:02:34 AM
 
 ## NTT Communications Corporation
 4713            # 5/28/2025 7:04:18 PM
@@ -71,12 +146,30 @@
 ## Peg Tech Inc
 398478          # 5/28/2025 7:04:18 PM
 
+## Pfcloud UG
+51396           # 7/12/2025 12:10:00 AM
+
 ## Ripe NCC ASN Block
 21499           # 6/9/2025 11:08:15 AM
+
+## Shenzhen Tencent Computer Systems Company Limited
+132203          # 7/12/2025 12:02:32 AM
+
+## Strong Technology LLC
+22781           # 7/12/2025 12:02:31 AM
 
 ## Tefincom S.A
 136787          # 5/28/2025 7:04:18 PM
 
+## Telia Company Ab
+3301            # 7/12/2025 12:02:34 AM
+
+## Tot Public Company Limited
+23969           # 7/12/2025 12:02:31 AM
+
 ## Windstream Communications LLC
 7029            # 6/9/2025 11:08:15 AM
+
+## XTOM Limited
+4785            # 7/12/2025 12:02:33 AM
 
