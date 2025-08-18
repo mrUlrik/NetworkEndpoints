@@ -22,6 +22,9 @@
 ## Centurylink Communications LLC
 209             # 5/28/2025 7:04:19 PM
 
+## cheapy.host LLC
+401120          # 8/18/2025 4:18:21 PM
+
 ## Cogent Communications
 174             # 7/12/2025 12:02:31 AM
 
@@ -33,6 +36,9 @@
 
 ## Dataforest GMBH
 58212           # 7/12/2025 12:02:32 AM
+
+## Digitalocean LLC
+14061           # 8/18/2025 4:16:19 PM
 
 ## Epikwire Broadband Limited
 216156          # 7/31/2025 10:57:03 AM
@@ -64,22 +70,32 @@
 ## Netiface Limited
 60223           # 5/28/2025 7:07:00 PM
 
+## NLS Kazakhstan LLC
+200590          # 8/18/2025 4:16:20 PM
+
 ## OVH SAS
 16276           # 5/28/2025 7:04:18 PM
 
 ## Pfcloud UG
 51396           # 7/12/2025 12:07:00 AM
 
+## Private Layer Inc
+51852           # 8/18/2025 4:16:20 PM
+
 ## Ripe NCC ASN Block
 49581           # 5/28/2025 7:04:18 PM
 202306          # 5/28/2025 7:04:18 PM
 207083          # 6/9/2025 11:08:14 AM
+209605          # 8/18/2025 4:16:20 PM
 
 ## Shenzhen Tencent Computer Systems Company Limited
 132203          # 7/12/2025 12:02:33 AM
 
 ## SK Broadband Co Ltd
 9318            # 5/28/2025 7:04:18 PM
+
+## Tamatiya EOOD
+50360           # 8/18/2025 4:16:20 PM
 
 ## Tefincom S.A
 136787          # 5/28/2025 7:04:18 PM
